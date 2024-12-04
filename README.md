@@ -45,7 +45,7 @@ Generalization: Incorporates regularization techniques like dropout to prevent o
 
 ## 📔 Kaggle Notebook
 The Kaggle notebook used for this project is included in this repository:
-- [`image_captioning.ipynb`](image_captioning.ipynb)
+- [`image_captioning.ipynb`](https://www.kaggle.com/code/salma9201/image-captioning/edit)
 
 This notebook contains:
 - Dataset preprocessing steps.
