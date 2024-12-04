@@ -42,3 +42,14 @@ Passes images through the trained model to generate captions with minimal latenc
 Training Accuracy: Achieves over 85% on validation data.
 Evaluation Metrics: Measures BLEU and CIDEr scores for caption relevance and coherence.
 Generalization: Incorporates regularization techniques like dropout to prevent overfitting.
+
+## 📔 Kaggle Notebook
+The Kaggle notebook used for this project is included in this repository:
+- [`image_captioning.ipynb`](image_captioning.ipynb)
+
+This notebook contains:
+- Dataset preprocessing steps.
+- Feature extraction using Transfer Learning.
+- Model training and evaluation for image captioning.
+
+You can upload this notebook to Kaggle or run it locally using Jupyter Notebook.
